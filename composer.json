@@ -1,0 +1,12 @@
+{
+    "name": "mbarbosa/teste",
+    "description": "Teste composer",
+    "authors": [
+        {
+            "name": "Marcos Barbosa",
+            "email": "barbosa.mg@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
