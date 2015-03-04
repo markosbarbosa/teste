@@ -1,9 +1,6 @@
 {
     "name": "mbarbosa/teste",
     "description": "Projeto para testes",
-    "require": {
-        "php": "5.3*"
-    },
     "require-dev": {
         "zendframework/zend-stdlib": "2"
     },
