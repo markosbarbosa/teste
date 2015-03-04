@@ -1,12 +1,18 @@
 {
     "name": "mbarbosa/teste",
-    "description": "Teste composer",
+    "description": "Projeto para testes",
+    "require": {
+        "php": "5.3*"
+    },
+    "require-dev": {
+        "zendframework/zend-stdlib": "2"
+    },
+    "license": "GPL",
     "authors": [
         {
             "name": "Marcos Barbosa",
             "email": "barbosa.mg@gmail.com"
         }
     ],
-    "minimum-stability": "dev",
-    "require": {}
+    "minimum-stability": "dev"
 }
